@@ -1,0 +1,7 @@
+.ant-carousel .slick-slide {
+  overflow: hidden;
+}
+
+.slick-track {
+  height: 100vh;
+}
